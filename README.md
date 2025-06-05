@@ -8,7 +8,7 @@ This system utilizes face detection and recognition to unlock the door, enhancin
 GitHub
 
 # 🛠️ Hardware Requirements
-Arduino UNO Microcontroller
+* Arduino UNO Microcontroller
 
 * LOCK 12V  (for locking mechanism)
 
@@ -20,10 +20,16 @@ Arduino UNO Microcontroller
 
 * Connecting Cable (for Arduino to computer interface)
 
-* Lever Type Door Lock (for the locking mechanism)
+* Door and frame (3d building)
+  
+* Battery 12v (for powering the lock )
+
+* relay (for turn of on the lock by arduino)
 
 # building images
 ![IMG_20250529_183928](https://github.com/user-attachments/assets/23fd902a-d3b2-414e-b8f4-4c3a2178f332)
 # AND ALSO
 ![IMG_20250529_183939](https://github.com/user-attachments/assets/a7e32601-bf79-41b3-8b8f-f705c9d3e7a8)
 # 💻 Software Requirements
+* arduino ide
+* 
