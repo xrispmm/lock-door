@@ -10,7 +10,7 @@ GitHub
 # 🛠️ Hardware Requirements
 Arduino UNO Microcontroller
 
-LOCK 12V  (for locking mechanism)
+* LOCK 12V  (for locking mechanism)
 
 :Camera USB (for capturing face images)
 
