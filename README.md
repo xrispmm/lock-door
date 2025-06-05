@@ -9,7 +9,9 @@ GitHub
 
 # 🛠️ Hardware Requirements
 * Arduino UNO Microcontroller
- to buy <a href="https://www.ebay.com/shop/arduino-uno-r3?_nkw=arduino+uno+r3"id="arduino here">#</a>
+* 
+ =>to buy "https://www.ebay.com/shop/arduino-uno-r3?_nkw=arduino+uno+r3"id="arduino here">
+
 * LOCK 12V  (for locking mechanism)
 
 * Huskylens (for capturing face images)
