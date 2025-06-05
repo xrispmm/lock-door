@@ -9,8 +9,8 @@ GitHub
 
 # 🛠️ Hardware Requirements
 * Arduino UNO Microcontroller
-* 
- =>to buy "https://www.ebay.com/shop/arduino-uno-r3?_nkw=arduino+uno+r3"id="arduino here">
+
+ =>to buy here "https://www.ebay.com/shop/arduino-uno-r3?_nkw=arduino+uno+r3"
 
 * LOCK 12V  (for locking mechanism)
 
