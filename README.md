@@ -12,7 +12,7 @@ Arduino UNO Microcontroller
 
 * LOCK 12V  (for locking mechanism)
 
-* Camera USB (for capturing face images)
+* Huskylens (for capturing face images)
 
 * Jumper Wires (for connections)
 
