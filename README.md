@@ -25,7 +25,7 @@ GitHub
 * Battery 12v (for powering the lock )
 
 * relay (for turn of on the lock by arduino)
-
+DoorLockHusky_bb.png
 # building images
 ![IMG_20250529_183928](https://github.com/user-attachments/assets/23fd902a-d3b2-414e-b8f4-4c3a2178f332)
 # AND ALSO
