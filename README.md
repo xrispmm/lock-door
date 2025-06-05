@@ -32,4 +32,6 @@ GitHub
 ![IMG_20250529_183939](https://github.com/user-attachments/assets/a7e32601-bf79-41b3-8b8f-f705c9d3e7a8)
 # 💻 Software Requirements
 * arduino ide
-* 
+* windows 11 or 10
+* arduino libraries
+# code
