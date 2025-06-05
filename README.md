@@ -21,7 +21,7 @@ Arduino UNO Microcontroller
 * Connecting Cable (for Arduino to computer interface)
 
 * Lever Type Door Lock (for the locking mechanism)
-
+#building images
 ![IMG_20250529_183928](https://github.com/user-attachments/assets/23fd902a-d3b2-414e-b8f4-4c3a2178f332)
 # AND ALSO
 ![IMG_20250529_183939](https://github.com/user-attachments/assets/a7e32601-bf79-41b3-8b8f-f705c9d3e7a8)
