@@ -1,5 +1,5 @@
 # lock-door
-door lock with arduino uno by xrispmm
+Door lock with arduino uno by xrispmm
 
 ![IMG_20250529_183933](https://github.com/user-attachments/assets/fc31c171-a1b0-431a-8d18-328ea29c1588)
 
@@ -10,7 +10,7 @@ GitHub
 # 🛠️ Hardware Requirements
 Arduino UNO Microcontroller
 
-:LOCK 12V  (for locking mechanism)
+LOCK 12V  (for locking mechanism)
 
 :Camera USB (for capturing face images)
 
